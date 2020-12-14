@@ -6,7 +6,7 @@ Environment setup:
         - Install NodeJs from https://nodejs.org/en/download/
 
         - Install Angular CLI using the command:
-          npm install -g @angular/cli
+          npm install -g @angular/cli. 
 
         - Navigate to LibraryManagementSystem/FrontEnd and issue command:
          npm install
